@@ -1,0 +1,12 @@
+{ 
+    "name": "MyLib",
+    "version": "0.1.0",
+    "keyords": ["sensors"],
+    "description": "Dummy library",
+    "authors": {
+        "name": "Dolf Andringa",
+        "email": "dolfandringa@gmail.com"
+    },
+    "platforms": "*",
+    "frameworks": "arduino"
+}
